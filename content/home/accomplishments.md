@@ -19,19 +19,19 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Certified in PEGA CSA v6.2"
+  organization_url = "Certified in PEGA CSA v6.2"
+  title = "PEGA CSA v6.2"
   url = ""
   certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  date_start = "2013-11-01"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
+  organization = "IBM DevOps Essentials"
   organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
+  title = "IBM DevOps Essentials"
   url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
   certificate_url = "https://www.edx.org"
   date_start = "2018-03-01"
@@ -39,13 +39,74 @@ date_format = "Jan 2006"
   description = "Formulated informed blockchain models, hypotheses, and use cases."
 
 [[item]]
-  organization = "DataCamp"
+  organization = "IBM Garage Method for Cloud Explorer"
   organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  title = "IBM Garage Method for Cloud Explorer"
   url = ""
   certificate_url = "https://www.datacamp.com"
   date_start = "2017-07-01"
   date_end = "2017-12-21"
   description = ""
+
+  [[item]]
+    organization = "Docker Essentials: A Developer Introduction"
+    organization_url = "Docker Essentials: A Developer Introduction"
+    title = "Docker Essentials: A Developer Introduction"
+    url = ""
+    certificate_url = "https://www.coursera.org"
+    date_start = "2013-11-01"
+    date_end = ""
+    description = ""
+
+  [[item]]
+    organization = "IBM Cloud Kubernetes Service"
+    organization_url = "https://www.edx.org"
+    title = "IBM Cloud Kubernetes Service"
+    url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
+    certificate_url = "https://www.edx.org"
+    date_start = "2018-03-01"
+    date_end = ""
+    description = ""
+
+  [[item]]
+    organization = "IBM Cloud Essentials"
+    organization_url = "https://www.datacamp.com"
+    title = "IBM Cloud Essentials"
+    url = ""
+    certificate_url = "https://www.datacamp.com"
+    date_start = "2017-07-01"
+    date_end = "2017-12-21"
+    description = ""
+
+    [[item]]
+      organization = "IBM Cloud Private Infrastructure and Architecture"
+      organization_url = "IBM Cloud Private Infrastructure and Architecture"
+      title = "IBM Cloud Private Infrastructure and Architecture"
+      url = ""
+      certificate_url = "https://www.coursera.org"
+      date_start = "2013-11-01"
+      date_end = ""
+      description = ""
+
+    [[item]]
+      organization = "IBM Garage Method for Cloud Advocate"
+      organization_url = "https://www.edx.org"
+      title = "IBM Garage Method for Cloud Advocate"
+      url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
+      certificate_url = "https://www.edx.org"
+      date_start = "2018-03-01"
+      date_end = ""
+      description = ""
+
+    [[item]]
+      organization = "IBM Agile Explorer"
+      organization_url = "https://www.datacamp.com"
+      title = "IBM Agile Explorer"
+      url = ""
+      certificate_url = "https://www.datacamp.com"
+      date_start = "2017-07-01"
+      date_end = "2017-12-21"
+      description = ""
+
 
 +++
