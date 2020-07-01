@@ -30,7 +30,7 @@ education:
   - course: Bachelor in Technology
     institution: SRM University
     year: 2006-2010
-  
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -41,7 +41,7 @@ social:
   link: '+44-742444885'  # For a direct email link, use "mailto:badrishmishra@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/badrishmishra
+  link: https://twitter.com/bamishr
 - icon: github
   icon_pack: fab
   link: https://github.com/bamishr
@@ -65,4 +65,3 @@ user_groups:
 Hands-on Experience in Opeshift aPaaS V3, Docker, Kubernetes, Unix Shell Scripting, Ansible Scripting, CMS (CQ5, AEM),WAS(WebSphere Application server) Server Configuration and Deployment.
 Tibco Admin, Tibco Hawk, BOOMI deployments Java, JDBC, Servlets, JSP Working experience in analyzing of technical and functional requirements.
 Good Knowledge on JIRA (Atlassian stack) workflow, Transition, Screen Configuration and using Groovy. On single click the Jenkins pipeline will start.
-
