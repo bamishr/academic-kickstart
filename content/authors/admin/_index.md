@@ -60,7 +60,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
 8+ years of successful experience in the Continuous Integration, continues deployment, Configuration management, AutomationTesting (ReadyApi, CA ARD and HP ALM), Production release and deployment, Infrastructure Level Configuration using multiple tools and Scripting Languages.
 Hands-on Experience in Opeshift aPaaS V3, Docker, Kubernetes, Unix Shell Scripting, Ansible Scripting, CMS (CQ5, AEM),WAS(WebSphere Application server) Server Configuration and Deployment.
 Tibco Admin, Tibco Hawk, BOOMI deployments Java, JDBC, Servlets, JSP Working experience in analyzing of technical and functional requirements.
