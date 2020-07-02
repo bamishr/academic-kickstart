@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: Bachelor in Technology
+  - course: Computer Science and Technology
     institution: SRM University
     year: 2006-2010
 
