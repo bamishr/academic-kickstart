@@ -18,11 +18,11 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Automation Tester and Advisory DevOps Consultant"
+  title = "Advisory DevOps Consultant"
   company = "IBM United Kingdom"
   client = "Nationwide bank UK"
   location = "Swindon"
-  date_start = "2016-01-01"
+  date_start = "2018-12-01"
   date_end = ""
   description = """
   Roles and Responsibilities.
@@ -41,8 +41,8 @@ date_format = "Jan 2006"
   company = "IBM United Kingdom"
   client = "Barclay's – Wealth, Investment & Financial Banking Services"
   location = "Knutsford"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  date_start = "2016-10-18"
+  date_end = "2018-11-30"
   description = """
   Roles and Responsibilities.
   •	One touch Deployment automation into different environments using aPaaS.
@@ -62,8 +62,8 @@ date_format = "Jan 2006"
     company = "Accenture"
     client = "T-Mobile, USA"
     location = "India"
-    date_start = "2016-01-01"
-    date_end = "2016-12-31"
+    date_start = "2014-08-30"
+    date_end = "2016-05-11"
     description = """
     Roles and Responsibilities.
 •	Configuration of Jenkins CI tool for automated build & deployment process and Integrating Jenkins with Ansible.
@@ -84,8 +84,8 @@ date_format = "Jan 2006"
       company = "Wipro Technologies"
       client = "BestBuy, US"
       location = "India"
-      date_start = "2016-01-01"
-      date_end = "2016-12-31"
+      date_start = "2013-01-01"
+      date_end = "2014-08-24"
       description = """
       Roles and Responsibilities.
   •	Build & Deployment to multiple environments. Platform used Eclipse IDE - Maven, TeamCity.
@@ -105,8 +105,8 @@ date_format = "Jan 2006"
         company = "Wipro Technologies"
         client = "ABS-NS USA"
         location = "India"
-        date_start = "2016-01-01"
-        date_end = "2016-12-31"
+        date_start = "2010-08-30"
+        date_end = "2012-12-30"
         description = """
         Roles and Responsibilities.
   •	It includes the bug fixing, enhancement works using Core Java, Xml,   MYSQL, SQL server,Oracle.
@@ -119,5 +119,10 @@ date_format = "Jan 2006"
 
 
         """
+
+        
+
+
+
 
 +++
