@@ -33,6 +33,11 @@
     url = "https://agitated-brown-e0f9f8.netlify.app/"
     weight = 70
 
+[[main]]
+    name = "Stories"
+    url = "https://relaxed-golick-a32741.netlify.app"
+    weight = 80
+
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
